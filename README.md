@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **FarshadJanmohammadi/farshadjanmohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Farshad Janmohammadi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate Front-end web developer from Iran</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farshadjanmohammadi" alt="farshadjanmohammadi" /></a> </p>
 
